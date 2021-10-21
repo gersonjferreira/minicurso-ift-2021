@@ -14,7 +14,7 @@ https://gjferreira.wordpress.com/
 
 ## Resumo
 
-**Organização:** As notas de aula do mini-curso estão dispostas em jupyter notebooks neste repositório.
+**Organização:** As notas de aula do mini-curso estão dispostas em jupyter notebooks e documentos markdown neste repositório.
 
 Neste minicurso abordaremos alguns problemas ilustrativos da física estado sólido usando abordagens numéricas em python. Começaremos com uma rápida introdução ao python: fundamentos da linguagem, matplotlib, numpy (linalg, fft), scipy. Aplicaremos as técnicas numéricas para estudar métodos para solução numérica da equação de Schrödinger. Aplicaremos estes a poços quânticos simples e para o modelo BHZ de isolantes topológicos. Neste último caso, investigaremos a inversão de bandas e transição de fase topológica analisando a hibridização das bandas a medida que o gap inverte de positivo para negativo. Calcularemos a curvatura de Berry e número de Chern para o modelo BHZ. Ao longo do minicurso, apresentaremos os fundamentos teóricos e numéricos de cada exemplo. Exercícios serão propostos como tarefas curtas ou para serem feitas em casa após as aulas. Para se prepararem para o mini-curso, adiantem-se pelos links abaixo:
 
