@@ -1,4 +1,6 @@
-# MINI COURSE: Computational solid state physics in python
+# MINI COURSE: Computational solid state physics 
+
+> **in python**
 
 Prof. Dr. Gerson J. Ferreira 
 
