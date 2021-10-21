@@ -45,7 +45,7 @@ The purpose of this mini course is to learn how to use python to solve interesti
 ### Schrödinger's equation
 
 - Finite differences and matrix representation
-    - Eigenstates of potential wells
+    - Eigenstates of potential wells and superlattices
 - Inverse power method and $H$ as a linear operator using FFT
     - Gram-Schmidt orthonormalization
 
