@@ -1,7 +1,7 @@
-# 44ª edição do Congresso Paulo Leal Ferreira de Física
------------------------------------------------------
+Minicurso: Estado Sólido Computacional em Python
+------------------------------------------------
 
-**Minicurso: Estado Sólido Computacional em Python**
+Prof. Dr. Gerson J. Ferreira (INFIS/UFU)
 
 Local: [XLIV Congresso Paulo Leal Ferreira de Física](http://professores.ift.unesp.br/congressoPauloLealFerreira/)
 
