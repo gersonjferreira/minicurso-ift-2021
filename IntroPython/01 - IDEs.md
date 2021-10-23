@@ -40,13 +40,13 @@
 
 <img src="https://docs.spyder-ide.org/current/_images/mainwindow_default_1610.png" width="400"/>
 
-### 4 - VS Code:
+### 4 - VS Code: https://code.visualstudio.com/
 
 **Main features:** Awesome! Suport for raw code and jupyter notebooks. Remote access. Etc.
 
 <img src="https://code.visualstudio.com/assets/docs/languages/python/python-editing.gif" width="400"/>
 
-### 5 - PyCharm:
+### 5 - PyCharm: https://www.jetbrains.com/pycharm/
 
 **Main features:** Integrated package manager. Coolest features are paid: jupyter, co-code.
 
